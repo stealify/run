@@ -1,3 +1,3 @@
-# run/wsl Windows Sub Layer
+# run/wsl Windows Sub Layer Run and Watch methods
 Implements modules that let a host execute stuff via the wsl binary when it accessible by the host component.
 also implements transformations needed for interop between posix and microsoft as also host.
